@@ -1,6 +1,6 @@
 ####__Big_Data_PDF
 
-> 粘贴多行链接，至下载工具，即可下载。
+> 粘贴多行链接，至下载工具，即可下载。（推荐![BitComet](https://blog.csdn.net/qqduxingzhe/article/details/80461962)、chrome
 
 > 点击下载好的part文件，即可合成。
 
